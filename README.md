@@ -1,18 +1,19 @@
 # Notes
+Gaurav Sharma
 Here is where I upload some of my notes. Typically they are related to information security.
 
-All dark mode notes can be found in their HTML format on my website: https://0xd4y.com/.
+All dark mode notes can be found in their HTML format on my website: 
 
 ## AWS
 ### Hands on AWS Pentesting
-https://0xd4y.com/2022/09/11/Hands-on-AWS-Penetration-Testing-Notes/
+
 - Privilege escalation techniques
 - AWS pentest tools
 - Bypassing GuardDuty and Cloudtrail
 - And much more!
 
 ### AWS Security Specialty
-https://0xd4y.com/2022/03/15/AWS-Security-Specialty-Notes/
+
 - Notes from security engineer point of view
 - Securely configuring AWS environments
 - Security responsibility & access management 
@@ -22,7 +23,7 @@ https://0xd4y.com/2022/03/15/AWS-Security-Specialty-Notes/
 
 ## GCP
 ### GCP Penetration Testing Notes
-https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/
+
 - GCP fundamentals
 - Privilege escalation techniques 
 - Common misconfigurations
@@ -31,7 +32,7 @@ https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/
 - GCP networking
 
 ### GCP Penetration Testing Notes 2
-https://0xd4y.com/2022/10/24/GCP-Penetration-Testing-Notes-2/
+
 - Privilege escalation techniques (IAM and Non-IAM)
 - GKE, Google Cloud Storage, Cloud Build, etc.
 - Remediation
@@ -39,14 +40,14 @@ https://0xd4y.com/2022/10/24/GCP-Penetration-Testing-Notes-2/
 
 ## Active Directory
 ### Active Directory Pentesting Notes
-https://0xd4y.com/2023/02/28/Active-Directory-Pentesting-Notes/
+
 - Common tactics, techniques, and procedures used by threat actors
 - Active Directory security fundamentals
 - Common tools used for AD pentesting
 - Bypassing security mechanisms
 
 ### CRTP Notes
-https://0xd4y.com/2023/04/05/CRTP-Notes/
+
 - Local privilege escalation
 - Domain privilege escalation
 - Tools for AD pentesting and red teaming
